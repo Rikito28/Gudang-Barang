@@ -1,0 +1,16 @@
+1.
+Username : admin
+password : admin
+Sebagai  : admin
+
+2.
+Username : riski
+Password : 123
+Sebagai  : admin
+
+3.
+Username : riska
+Password : 123
+Sebagai  : operator
+4.
+Nama Database : gudang
